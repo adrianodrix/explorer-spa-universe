@@ -1,0 +1,12 @@
+{
+  "name": "spa-universe",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Adriano Santos 🇧🇷",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
